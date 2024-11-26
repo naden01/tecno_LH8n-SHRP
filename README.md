@@ -1,4 +1,4 @@
-# PBRP tree for TECNO LH8n (LH8n)
+# SHRP tree for TECNO LH8n (LH8n)
 
 Basic   | Spec Sheet
 -------:|:-------------------------
@@ -14,8 +14,8 @@ Display | 1080 x 2460 pixels,6.78 inches, 60/90/120hz
 ![poba5pro](https://github.com/user-attachments/assets/0bfd51aa-7b85-4d65-afe7-602bfc4cb12e)
 
 # Clone
-    git clone https://github.com/naden01/tecno_LH8n-pbrp.git -b 14 device/tecno/LH8n
+    git clone https://github.com/naden01/tecno_LH8n-SHRP.git -b 14 device/tecno/LH8n
 
 # Build
-    export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch pb_LH8n-eng; mka vendorbootimage
+    export ALLOW_MISSING_DEPENDENCIES=true; . build/envsetup.sh; lunch twrp_LH8n-eng; mka vendorbootimage
 
