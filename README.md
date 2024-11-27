@@ -13,6 +13,13 @@ Display | 1080 x 2460 pixels,6.78 inches, 60/90/120hz
 
 ![poba5pro](https://github.com/user-attachments/assets/0bfd51aa-7b85-4d65-afe7-602bfc4cb12e)
 
+fix for error when building shrp
+https://xdaforums.com/t/error-building-skyhawk-recovery.4656291/
+
+and use this repo
+https://github.com/naden01/manifest/tree/shrp-12.1
+because when use from original repo build will error 
+
 # Clone
     git clone https://github.com/naden01/tecno_LH8n-SHRP.git -b 14 device/tecno/LH8n
 
